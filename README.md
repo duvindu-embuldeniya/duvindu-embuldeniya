@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=duvindu-embuldeniya&label=Profile%20views&color=0e75b6&style=flat)
+
 💻 I primarily work on backend development using Django, with experience in designing and managing scalable systems on AWS.
 
 🚀 I learn by breaking down and rebuilding systems to understand their inner workings. By prototyping and experimenting, I stay adaptable and constantly improve my knowledge. I aim to collaborate on innovative projects and work within teams to develop impactful applications. Building scalable systems and expanding my knowledge are my top priorities.
