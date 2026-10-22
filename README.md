@@ -1,11 +1,11 @@
 ## Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=duvindu-embuldeniya&label=Profile%20views&color=0e75b6&style=flat)
 
-💻 I focus on cloud infrastructure, automation, and site reliability across AWS and GCP, building scalable, secure, and resilient systems.
+💻 I focus on cloud infrastructure, automation, and site reliability across AWS and GCP to build scalable, secure, and resilient systems.
 
-🚀 I enjoy automating workflows, optimizing CI/CD pipelines, and improving infrastructure reliability through monitoring, observability, and infrastructure as code. I learn by experimenting, troubleshooting, and continuously improving systems.
+🚀 I automate workflows, optimize CI/CD pipelines, and improve infrastructure reliability through monitoring and infrastructure as code. I continuously improve my skills by experimenting and troubleshooting real-world systems.
 
-☁️ My goal is to build highly available, efficient, and maintainable infrastructure through automation, proactive monitoring, and continuous improvement, ensuring reliable deployments and seamless operations.
+☁️ My goal is to build highly available and maintainable infrastructure that enables reliable deployments and efficient operations.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
