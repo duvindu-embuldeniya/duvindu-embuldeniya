@@ -3,9 +3,9 @@
 
 💻 I focus on cloud infrastructure, automation, and site reliability across AWS and GCP to build scalable, secure, and resilient systems.
 
-🚀 I automate workflows, optimize CI/CD pipelines, and improve infrastructure reliability through monitoring and infrastructure as code. I continuously improve my skills by experimenting and troubleshooting real-world systems.
+🚀 I automate CI/CD pipelines, manage Kubernetes workloads, and implement infrastructure as code to improve reliability and observability. I learn by experimenting and troubleshooting real-world systems.
 
-☁️ My goal is to build highly available and maintainable infrastructure that enables reliable deployments and efficient operations.
+☁️ My goal is to build highly available, maintainable infrastructure that enables reliable deployments and efficient operations.
 
 **![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)**
 **![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)**
