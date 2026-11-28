@@ -33,7 +33,7 @@
 
 ### Observability & Monitoring
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alloy](https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Tempo](https://img.shields.io/badge/Tempo-6E2E8B?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
